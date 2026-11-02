@@ -1,6 +1,6 @@
 # Video Shelf
 
-**Your video library, beautifully organised.**
+**Your private video collection, beautifully catalogued.**
 
 Video Shelf is a Windows desktop app for cataloguing video collections spread across many hard drives. It keeps a searchable catalogue of every folder and scene, with screenshots, ratings and play history, so you can browse everything even when a drive isn't connected.
 

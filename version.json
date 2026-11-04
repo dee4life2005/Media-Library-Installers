@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.1.0/VideoShelf-Setup-1.1.0.exe",
-    "sha256":  "712a98425894398e9b75751907e368c3ad38145ccf767118fb6205b475d5629f",
-    "size":  101500122,
-    "notes":  "## What\u0027s new\n\n- **A new User Guide.** **Help › User Guide** is rewritten for everything Video Shelf does now, with new pictures throughout: the filter bar and views, picking several folders, choosing covers, Compare Folders, the activity panel, What\u0027s New and the activity log.\n- **Easier choosing of covers.** The cover window and **Try it on a folder** in **Settings › Covers** now show each screenshot whole. Where a picture\u0027s shape isn\u0027t the tile\u0027s, such as a portrait screenshot for landscape tiles, it has black bars at the sides, or at the top and bottom the other way round, so you can see exactly what you\u0027re choosing.\n\n## Changes\n\n- **New version numbers.** From this release, versions go Major.Minor.Patch: the middle number moves on for new features, and the last for fixes. 1.1.0 follows 1.0.0.14, and updating works as before."
+    "version":  "1.1.1",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.1.1/VideoShelf-Setup-1.1.1.exe",
+    "sha256":  "882156e892e599666b0c65f96139610889d0434254f531baa7f7f28b111b5f8f",
+    "size":  101512256,
+    "notes":  "## Fixes\n\n- **Covers keep their shape.** A cover the other way round to your tiles, such as a portrait screenshot on landscape tiles, is now shown whole with black bars at the sides, rather than cropped to a strip of its middle. A landscape cover on portrait tiles gets bars above and below. The cover beside an open folder\u0027s scenes does the same. Covers the same way round as the tiles fill them as before.\n- **Hidden categories.** A folder in more than one hidden category now shows as soon as any one of them is switched on in the filters. It used to need all of them.\n- **Scene tags filter.** The list of scene tags in the scene filters was empty unless you kept a mastertags.txt file. It now offers every tag your scenes have. **Edit Scenes**, for tagging several scenes at once, offers them too.\n\n## Changes\n\n- In the scene filters, **Folder tag** now comes before **Scene tags**.\n- A new install has no Favourites folder set, so the first Sync 5-Star Scenes to Favourites asks where to copy to. A folder you\u0027ve already chosen is kept."
 }

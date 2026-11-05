@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.1",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.4.1/VideoShelf-Setup-1.4.1.exe",
-    "sha256":  "45ef91cab88f3462521e5900b6768bb2a791b6477a4c81a0cc0428199fd88e20",
-    "size":  101510359,
-    "notes":  "## Fixes\n\n- **Your settings now survive updates.** Some settings, such as the cover model and the downloads folder, went back to their defaults after an update, as they were being brought across from an older version than the one you had. Each setting now comes from the newest version that had it, so this update also brings back settings lost in earlier updates."
+    "version":  "1.5.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.5.0/VideoShelf-Setup-1.5.0.exe",
+    "sha256":  "946b00cd7c0845a251c2ee061cbead6c21e1ab320bddead52e547fa5c8c2892b",
+    "size":  101547842,
+    "notes":  "## Changes\n\n- **Cover suggestions are ready sooner.** Importing a folder, refreshing one (including rebuilding its screenshots) and trimming a scene now score the new screenshots for cover suggestions in the background, so **Choose for me** opens straight away afterwards. Only screenshots that are new or changed are looked at, and covers you already have don\u0027t change.\n- With **Choose covers automatically** on, folders without a cover are still given one as before.\n- This needs a cover model downloaded in **Settings \u003e Covers**. The activity panel or status bar shows it working, and it can be stopped there."
 }

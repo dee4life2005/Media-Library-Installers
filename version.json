@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.2",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.2.2/VideoShelf-Setup-1.2.2.exe",
-    "sha256":  "c5dcc51822b862f7316ca1e242110956a7293e6cfc4ff0a6b70552cb2a98ab1f",
-    "size":  101514333,
-    "notes":  "## Changes\n\n- **Sharper suggested covers.** Suggested covers, in the cover window and when covers are chosen automatically or for many folders at once, now only come from videos that are 1080p or better (1080 pixels or more on the shorter side, so portrait videos count too). A folder with no such videos still gets suggestions from all of them, and the window says which videos it looked at. **All screenshots** still shows every scene, to choose from by eye."
+    "version":  "1.2.3",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.2.3/VideoShelf-Setup-1.2.3.exe",
+    "sha256":  "4180b48a197b1cfd9576a82aa31f73dd8395a6259c9e6e792aebdeb3b3887b8f",
+    "size":  101525449,
+    "notes":  "## Changes\n\n- **See each video\u0027s quality when choosing a cover.** Every screenshot in the cover window, in both **Suggested** and **All screenshots**, now has a small chip with its video\u0027s quality, such as 720p, 1080p or 4K, as the scene tiles do. A scene whose size isn\u0027t known has none."
 }

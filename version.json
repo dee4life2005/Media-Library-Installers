@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.1",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.2.1/VideoShelf-Setup-1.2.1.exe",
-    "sha256":  "775c2c9c2081f9d5d202b4ec3ef6e5aac78b1ecdcc8403383a1a3326b979ffaf",
-    "size":  101551979,
-    "notes":  "## Fixes\n\n- **Scene screenshots keep their shape.** A screenshot the other way round to your tiles, such as a portrait video on landscape tiles, is now shown whole with black bars at the sides, rather than cropped to a strip of its middle, as folder covers already are. A landscape screenshot on portrait tiles gets bars above and below. This applies to scene tiles, the hover preview and Downloads. Screenshots the same way round as the tiles fill them as before."
+    "version":  "1.2.2",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.2.2/VideoShelf-Setup-1.2.2.exe",
+    "sha256":  "c5dcc51822b862f7316ca1e242110956a7293e6cfc4ff0a6b70552cb2a98ab1f",
+    "size":  101514333,
+    "notes":  "## Changes\n\n- **Sharper suggested covers.** Suggested covers, in the cover window and when covers are chosen automatically or for many folders at once, now only come from videos that are 1080p or better (1080 pixels or more on the shorter side, so portrait videos count too). A folder with no such videos still gets suggestions from all of them, and the window says which videos it looked at. **All screenshots** still shows every scene, to choose from by eye."
 }

@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.2.0/VideoShelf-Setup-1.2.0.exe",
-    "sha256":  "18e2f2be2e53e370ff5a9026491376a05594a73333a67238e3316abc32edb34c",
-    "size":  101512955,
-    "notes":  "## What\u0027s new\n\n- **Folders with no cover.** Some folders suit no cover, such as a collection from one producer. Right-click the folder and choose **Remove cover...**, or click **No cover** in the cover window. Its tile shows the folder\u0027s initial, and covers chosen automatically or for many folders at once leave it alone, even when you choose to replace existing covers. Choosing a cover for it yourself gives it one again.\n- **Clear every scene tag.** **Settings › Storage** can take every tag off every scene, to start them again. Folders\u0027 own tags, categories, attributes, ratings and plays are kept. Because it can\u0027t be undone from the app, you type a phrase first, which is made up afresh each time and can\u0027t be pasted. Your catalogue is copied to your data folder first, so the tags can be brought back by putting that copy in place of `index.db.gz` while the app is closed.\n\n## Changes\n\n- **An easier-to-read User Guide.** A section now starts on a new page when it won\u0027t fit on the one before, rather than leaving a line or two of text apart from its picture. The guide also covers both new features."
+    "version":  "1.2.1",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.2.1/VideoShelf-Setup-1.2.1.exe",
+    "sha256":  "775c2c9c2081f9d5d202b4ec3ef6e5aac78b1ecdcc8403383a1a3326b979ffaf",
+    "size":  101551979,
+    "notes":  "## Fixes\n\n- **Scene screenshots keep their shape.** A screenshot the other way round to your tiles, such as a portrait video on landscape tiles, is now shown whole with black bars at the sides, rather than cropped to a strip of its middle, as folder covers already are. A landscape screenshot on portrait tiles gets bars above and below. This applies to scene tiles, the hover preview and Downloads. Screenshots the same way round as the tiles fill them as before."
 }

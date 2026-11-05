@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.4.0/VideoShelf-Setup-1.4.0.exe",
-    "sha256":  "7b750ff43dad99726f98e6989dd7025cc68d4b55a28e66fad7944055072ac951",
-    "size":  101506295,
-    "notes":  "## Changes\n\n- **Filter downloads by size.** The filters in **Downloads In Progress** have a new **Video** section with size chips: **4K**, **1440p**, **1080p**, **720p** and **Below 720p**. Size goes by the video\u0027s long side, so a portrait 1080 × 1920 video counts as 1080p, the same as a landscape 1920 × 1080 one.\n- **Filter downloads by shape.** Pick **Landscape**, **Portrait** or **Square**. Size and shape work together, so **1080p** with **Portrait** shows portrait 1080p videos only. Pick more than one chip in a row to see any of them; with none picked, that row doesn\u0027t filter.\n- **Every folder is read.** The include and exclude folder lists are gone: a refresh reads every video in your downloads folder and the folders inside it.\n- **Cover suggestions open faster.** Each screenshot\u0027s score is now saved on its own, so **Choose for me** only looks at screenshots that are new or rebuilt since, rather than the whole folder again.\n- **Rebuilding screenshots scores them too.** With a cover model downloaded, **Rebuild All Screenshots** scores each new screenshot for cover suggestions as it goes, so Choose for me opens straight away afterwards.\n- **Saved suggestions are kept until you clear them.** They no longer expire after 30 days or when you change the model or tile shape. **Settings \u003e Covers \u003e Clear saved suggestions** forgets them all, so every screenshot is looked at again with the model chosen then."
+    "version":  "1.4.1",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.4.1/VideoShelf-Setup-1.4.1.exe",
+    "sha256":  "45ef91cab88f3462521e5900b6768bb2a791b6477a4c81a0cc0428199fd88e20",
+    "size":  101510359,
+    "notes":  "## Fixes\n\n- **Your settings now survive updates.** Some settings, such as the cover model and the downloads folder, went back to their defaults after an update, as they were being brought across from an older version than the one you had. Each setting now comes from the newest version that had it, so this update also brings back settings lost in earlier updates."
 }

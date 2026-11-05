@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.3",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.2.3/VideoShelf-Setup-1.2.3.exe",
-    "sha256":  "4180b48a197b1cfd9576a82aa31f73dd8395a6259c9e6e792aebdeb3b3887b8f",
-    "size":  101525449,
-    "notes":  "## Changes\n\n- **See each video\u0027s quality when choosing a cover.** Every screenshot in the cover window, in both **Suggested** and **All screenshots**, now has a small chip with its video\u0027s quality, such as 720p, 1080p or 4K, as the scene tiles do. A scene whose size isn\u0027t known has none."
+    "version":  "1.3.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.3.0/VideoShelf-Setup-1.3.0.exe",
+    "sha256":  "65347166174e8395b2b922a904e249df4cd8dec7a1d86c698443188a6422f23f",
+    "size":  101527827,
+    "notes":  "## Changes\n\n- **Choose your own downloads folder.** The downloads folder is now a setting, under **Settings \u003e Storage \u003e Downloads folder**. There\u0027s no default: the first time you open **Downloads In Progress** without one, Video Shelf asks you to pick the folder.\n- **A folder filter that keeps up.** The **In folder** filter in Downloads In Progress shows each folder relative to your downloads folder, and updates by itself as videos arrive or go.\n- **Deleted videos leave the list.** Delete, rename or move a video out of the downloads folder (or remove a whole subfolder) and it leaves Downloads In Progress straight away, along with its cached screenshots.\n- **New downloads stay put.** Videos picked up while the window is open are saved straight away, so they\u0027re still there when you switch to **Today** or **Last 3 hours**, or close and reopen the window, without a refresh.\n- **No more Watch folder button.** The downloads folder is always watched while the window is open, so the button wasn\u0027t needed."
 }

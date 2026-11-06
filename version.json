@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.5.0/VideoShelf-Setup-1.5.0.exe",
-    "sha256":  "946b00cd7c0845a251c2ee061cbead6c21e1ab320bddead52e547fa5c8c2892b",
-    "size":  101547842,
-    "notes":  "## Changes\n\n- **Cover suggestions are ready sooner.** Importing a folder, refreshing one (including rebuilding its screenshots) and trimming a scene now score the new screenshots for cover suggestions in the background, so **Choose for me** opens straight away afterwards. Only screenshots that are new or changed are looked at, and covers you already have don\u0027t change.\n- With **Choose covers automatically** on, folders without a cover are still given one as before.\n- This needs a cover model downloaded in **Settings \u003e Covers**. The activity panel or status bar shows it working, and it can be stopped there."
+    "version":  "1.5.1",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.5.1/VideoShelf-Setup-1.5.1.exe",
+    "sha256":  "799cf684b441ee8bc9035c10f277650cc8013a0e41662788b0ad4392d1f80db5",
+    "size":  101524461,
+    "notes":  "## Fixes\n\n- **Double-clicking a cover no longer opens another folder.** Double-clicking a screenshot in **Choose a cover** used to open whichever folder was under the mouse once the window closed. Folder and scene tiles now only respond to a click that starts and ends on them.\n- **A tidier status bar.** A long status message, such as a new cover for a folder with a long name, no longer runs under \"All changes saved\". It\u0027s cut short instead, and hovering over it shows all of it."
 }

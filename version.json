@@ -1,7 +1,7 @@
 {
-    "version":  "1.7.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.7.0/VideoShelf-Setup-1.7.0.exe",
-    "sha256":  "5fc288e58b17b0b8004f65cf28f0a33e3a84d077919e17e2c59b57fb6684e349",
-    "size":  101666456,
-    "notes":  "## Changes\n\n- **Inbox.** A new **Inbox** button beside **Views** (also **View \u003e Inbox...**) lists what\u0027s new or needs a look: new downloads, newly added folders, folders without a cover or performers, recent scenes without tags, damaged files, and what the tagging rules did this week. Each row has what you can do about it right there, a tick clears it, and whole groups can be cleared or dealt with at once. The number on the button counts what\u0027s arrived or gone wrong.\n- **Short scenes are tagged \"clip\".** Scenes shorter than 2 minutes are tagged as they\u0027re imported or refreshed. Change the length or the tag, switch it off, or tag the scenes already in your collection under **Settings \u003e Storage \u003e Tag short scenes**. A tag already on a scene is left alone.\n- **More video details.** Each scene\u0027s frame rate, bit rate, HDR, sound and VR are read after an import or refresh, and **Collection \u003e Read Video Details...** reads them for the scenes you already have. Scene tiles show them beside the quality, such as **1080p60 HDR**, and the tooltip lists everything, including gigabytes per hour.\n- **New scene filters:** 50+ fps, HDR, VR, Surround, No sound, Not read yet, and **Oversized**, for scenes that take more room than usual for their quality.\n\n## Fixes\n\n- The Performers window no longer asks to save changes when you\u0027ve only clicked between performers."
+    "version":  "1.7.1",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.7.1/VideoShelf-Setup-1.7.1.exe",
+    "sha256":  "a3e79b82fe56b16699d43ca6a7c26aa92dea84d076e5f259b9620e2a4e1517cb",
+    "size":  101698009,
+    "notes":  "## Fixes\n\n- **Your settings now really do survive updates.** Each update was copying in settings from before the app was renamed, which wiped the cover model, the downloads folder and the safety copy folder, and stopped your previous version\u0027s settings from being brought across. This update brings back the latest of each setting from your earlier versions."
 }

@@ -1,7 +1,7 @@
 {
-    "version":  "1.8.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.8.0/VideoShelf-Setup-1.8.0.exe",
-    "sha256":  "ee7627e695f15d2074f01013d546b0e23aa9d8797d37326807291b91e6be0143",
-    "size":  101682356,
-    "notes":  "## Changes\n\n- **Pick several downloads at once.** In **Downloads In Progress**, pick downloads with their tick boxes, Ctrl or Shift and a click, Ctrl+A, or by dragging a rectangle. A bar appears with what can be done to them.\n- **Move downloads to a folder.** **Move to folder...** puts them in another folder in Downloads, or in a folder in your collection on a connected drive. Like moving a folder to another drive, it checks there\u0027s room, copies them, checks every copy, and only then takes them out of Downloads (untick that to keep them there too). A collection folder is then refreshed so they\u0027re added as scenes, using the screenshots already taken. Within one drive they\u0027re simply moved, which is instant. If anything goes wrong, or you stop it, nothing leaves Downloads.\n- **Delete several downloads at once**, to the Recycle Bin where the drive has one.\n\n## Tidying\n\n- The last traces of the app\u0027s old name are gone from the app and its installer."
+    "version":  "1.9.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.9.0/VideoShelf-Setup-1.9.0.exe",
+    "sha256":  "547e3da5447855da054733193296d41e59b4cc1e9d14337fb06f2b02e2496f71",
+    "size":  101688987,
+    "notes":  "## Changes\n\n- **New folder.** **File \u003e New Folder...** makes a folder on a drive and adds it to your collection, with its name, where it goes and its performers. The HDD label fills itself in from the drive. If a folder of that name is there already, it\u0027s used as it is, and any videos in it become its scenes.\n- **Icons in the right-click menus.** The folder and scene menus, and the Rate menu, now have icons like the main menus, with the delete items in red so they stand out."
 }

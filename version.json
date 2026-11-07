@@ -1,7 +1,7 @@
 {
-    "version":  "1.9.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.9.0/VideoShelf-Setup-1.9.0.exe",
-    "sha256":  "547e3da5447855da054733193296d41e59b4cc1e9d14337fb06f2b02e2496f71",
-    "size":  101688987,
-    "notes":  "## Changes\n\n- **New folder.** **File \u003e New Folder...** makes a folder on a drive and adds it to your collection, with its name, where it goes and its performers. The HDD label fills itself in from the drive. If a folder of that name is there already, it\u0027s used as it is, and any videos in it become its scenes.\n- **Icons in the right-click menus.** The folder and scene menus, and the Rate menu, now have icons like the main menus, with the delete items in red so they stand out."
+    "version":  "1.10.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.10.0/VideoShelf-Setup-1.10.0.exe",
+    "sha256":  "45693ee3364c1ffdfd8fa1d635fdbac0a2052b8681d705286abb0b5b1546d172",
+    "size":  101694006,
+    "notes":  "## Changes\n\n- **Move scenes to another folder.** Right-click a scene and choose **Move to another folder...**, or pick several and use **Move to folder...** on the selection bar. Choose a folder in your collection on a connected drive, or make one there and then. Like moving a folder to another drive, it checks there\u0027s room, copies the videos, checks every copy, moves the scenes with their screenshots, ratings, plays and tags, and only then removes the originals. Within one drive the videos are simply moved, as Explorer does, which is instant. Untick **Take them out of the folder they\u0027re in** to copy them instead. If anything goes wrong, or you stop it, the scenes stay where they were."
 }

@@ -1,7 +1,7 @@
 {
-    "version":  "1.7.1",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.7.1/VideoShelf-Setup-1.7.1.exe",
-    "sha256":  "a3e79b82fe56b16699d43ca6a7c26aa92dea84d076e5f259b9620e2a4e1517cb",
-    "size":  101698009,
-    "notes":  "## Fixes\n\n- **Your settings now really do survive updates.** Each update was copying in settings from before the app was renamed, which wiped the cover model, the downloads folder and the safety copy folder, and stopped your previous version\u0027s settings from being brought across. This update brings back the latest of each setting from your earlier versions."
+    "version":  "1.8.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.8.0/VideoShelf-Setup-1.8.0.exe",
+    "sha256":  "ee7627e695f15d2074f01013d546b0e23aa9d8797d37326807291b91e6be0143",
+    "size":  101682356,
+    "notes":  "## Changes\n\n- **Pick several downloads at once.** In **Downloads In Progress**, pick downloads with their tick boxes, Ctrl or Shift and a click, Ctrl+A, or by dragging a rectangle. A bar appears with what can be done to them.\n- **Move downloads to a folder.** **Move to folder...** puts them in another folder in Downloads, or in a folder in your collection on a connected drive. Like moving a folder to another drive, it checks there\u0027s room, copies them, checks every copy, and only then takes them out of Downloads (untick that to keep them there too). A collection folder is then refreshed so they\u0027re added as scenes, using the screenshots already taken. Within one drive they\u0027re simply moved, which is instant. If anything goes wrong, or you stop it, nothing leaves Downloads.\n- **Delete several downloads at once**, to the Recycle Bin where the drive has one.\n\n## Tidying\n\n- The last traces of the app\u0027s old name are gone from the app and its installer."
 }

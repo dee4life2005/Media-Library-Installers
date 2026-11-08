@@ -1,7 +1,7 @@
 {
-    "version":  "1.17.1",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.1/VideoShelf-Setup-1.17.1.exe",
-    "sha256":  "7b11f3bd2e8afb03ac43d8702c5d93f69299c90b7041c7db635038642570a3ec",
-    "size":  101955425,
-    "notes":  "## Fixes\n\n- **A Performer filter for scenes.** The scene filters now have a Performer box, as the folder filters do. It finds scenes with that performer named on the scene or on its folder, and other names they go by count too. It also shows as a chip, is kept in saved views, and is cleared by Reset."
+    "version":  "1.17.2",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.2/VideoShelf-Setup-1.17.2.exe",
+    "sha256":  "1d118d2f8699a05b3c1b423311d1484c1a036682977b0f7ce3765fb291189ce8",
+    "size":  101927972,
+    "notes":  "## Fixes\n\n- **Find by face: tidier \"Found so far\" tiles.** They now keep their size and shape when the window is resized, wrapping onto more rows instead of stretching. They also show each scene\u0027s folder again."
 }

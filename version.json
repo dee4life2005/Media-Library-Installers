@@ -1,7 +1,7 @@
 {
-    "version":  "1.11.1",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.11.1/VideoShelf-Setup-1.11.1.exe",
-    "sha256":  "7a8fe8a2cadf5d84854231df6aaa9b5f6119896e8f597bdf86dfb88a39a52592",
-    "size":  101828502,
-    "notes":  "## Changes\n\n- **Tags that only repeat a name are taken off.** A tag that is the folder\u0027s own name, or a performer\u0027s name, comes off your folders and scenes, and out of the tag list. Where it named a performer who wasn\u0027t on that folder or scene yet, they\u0027re added to it instead, so nothing is lost. This happens once, and your catalogue is copied to index-before-tag-names.db.gz first."
+    "version":  "1.11.2",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.11.2/VideoShelf-Setup-1.11.2.exe",
+    "sha256":  "4109cc0b8f4ab37ed8d957fb3c49526054f5b5bfa99fd9832d51bb0c2a31195a",
+    "size":  101828534,
+    "notes":  "## Changes\n\n- **Folder tags that repeat the folder\u0027s name are taken off.** A folder tag that is just the folder\u0027s name written another way, such as \"Some.Name.2025\" on \"[OnlyFans] Some Name\", comes off, and out of the tag list. This happens once, and your catalogue is copied to index-before-folder-name-tags.db.gz first."
 }

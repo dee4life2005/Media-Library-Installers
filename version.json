@@ -1,7 +1,7 @@
 {
-    "version":  "1.10.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.10.0/VideoShelf-Setup-1.10.0.exe",
-    "sha256":  "45693ee3364c1ffdfd8fa1d635fdbac0a2052b8681d705286abb0b5b1546d172",
-    "size":  101694006,
-    "notes":  "## Changes\n\n- **Move scenes to another folder.** Right-click a scene and choose **Move to another folder...**, or pick several and use **Move to folder...** on the selection bar. Choose a folder in your collection on a connected drive, or make one there and then. Like moving a folder to another drive, it checks there\u0027s room, copies the videos, checks every copy, moves the scenes with their screenshots, ratings, plays and tags, and only then removes the originals. Within one drive the videos are simply moved, as Explorer does, which is instant. Untick **Take them out of the folder they\u0027re in** to copy them instead. If anything goes wrong, or you stop it, the scenes stay where they were."
+    "version":  "1.10.1",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.10.1/VideoShelf-Setup-1.10.1.exe",
+    "sha256":  "654187853d09532cf9668be4483e6239b44a1052e45474277077432e3dd4dbed",
+    "size":  101729293,
+    "notes":  "## Changes\n\n- **See which covers were chosen automatically.** A folder whose cover the cover model chose shows a small **Auto** pill on its tile, so you can review them. Choosing a cover yourself takes it away.\n- **Filter folders by how their cover was chosen.** The folder filters have a new **Cover** row: Chosen automatically, Chosen by you, or No cover. It\u0027s kept in saved views.\n- **Older covers are worked out too.** A cover that looks like one of its folder\u0027s suggestions counts as chosen automatically, even where the screenshots have been rebuilt since, and one that matches another of its screenshots counts as yours. Folders whose screenshots haven\u0027t been scored yet are scored once in the background first, which you\u0027ll see in the activity panel and can stop."
 }

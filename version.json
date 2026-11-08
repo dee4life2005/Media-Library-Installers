@@ -1,7 +1,7 @@
 {
-    "version":  "1.16.1",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.16.1/VideoShelf-Setup-1.16.1.exe",
-    "sha256":  "5e6c1bdf85bf498e408af232f9770ae1014b596905920e9f6a1bbb2b554c1608",
-    "size":  101920874,
-    "notes":  "## Fixes\n\n- **Studios are named from file names reliably.** Refresh Contents and Refresh All Available now check every scene in the folder, not only videos the refresh hadn\u0027t seen before. Before, scenes already in your collection were never checked.\n  - Joined-up names count too: *NorthlightFilmsBeachDay* now matches Northlight Films.\n  - A studio is only ever added this way once, so one you take off a scene stays off."
+    "version":  "1.17.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.0/VideoShelf-Setup-1.17.0.exe",
+    "sha256":  "2d37f3dd953633f5931737dec0789937036b1366386e0edc5c6f819884a498b2",
+    "size":  101989262,
+    "notes":  "## Changes\n\n- **Find by face.** Find a performer\u0027s scenes from their face, then name them on all of them at once. Open it from Tools › Find by Face, or from a performer in the Performers window. It works in three steps:\n  1. **Who and where:** pick a few of their faces, from scenes that already name them or from a photo, then choose the drives, studios, tags and folders to look in.\n  2. **Scan:** their screenshots are looked through, showing the time left. Screenshots looked at once are remembered, so the next search is much quicker.\n  3. **Review and name:** likely and possible matches, with their face beside each match, to name in bulk or mark as not them.\n- **Faces stay on this PC.** Matching happens entirely on your PC and never online. For each face only a fingerprint is kept (a list of numbers, not a picture), and Settings › Faces can delete it all. The two small models are downloaded once from there.\n- **Easier to read Covers settings.** The text about saved suggestions is now a few short points."
 }

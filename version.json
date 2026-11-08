@@ -1,7 +1,7 @@
 {
-    "version":  "1.17.2",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.2/VideoShelf-Setup-1.17.2.exe",
-    "sha256":  "1d118d2f8699a05b3c1b423311d1484c1a036682977b0f7ce3765fb291189ce8",
-    "size":  101927972,
-    "notes":  "## Fixes\n\n- **Find by face: tidier \"Found so far\" tiles.** They now keep their size and shape when the window is resized, wrapping onto more rows instead of stretching. They also show each scene\u0027s folder again."
+    "version":  "1.17.3",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.3/VideoShelf-Setup-1.17.3.exe",
+    "sha256":  "9c271a6785a5f254b3c12fe3fe73bf0d23b0436a5aaf43124912d0560778d4ed",
+    "size":  102007699,
+    "notes":  "## Fixes\n\n- **Find by face: the tick boxes in Review and name work.** Clicking one picked the scene and then unpicked it straight away. Now one click picks it, and another click unpicks it."
 }

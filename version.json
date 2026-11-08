@@ -1,7 +1,7 @@
 {
-    "version":  "1.11.2",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.11.2/VideoShelf-Setup-1.11.2.exe",
-    "sha256":  "4109cc0b8f4ab37ed8d957fb3c49526054f5b5bfa99fd9832d51bb0c2a31195a",
-    "size":  101828534,
-    "notes":  "## Changes\n\n- **Folder tags that repeat the folder\u0027s name are taken off.** A folder tag that is just the folder\u0027s name written another way, such as \"Some.Name.2025\" on \"[OnlyFans] Some Name\", comes off, and out of the tag list. This happens once, and your catalogue is copied to index-before-folder-name-tags.db.gz first."
+    "version":  "1.12.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.12.0/VideoShelf-Setup-1.12.0.exe",
+    "sha256":  "9d5129ac6af37475cc5a5700246e3823050fbde71c5c8ad0de246158bb297aec",
+    "size":  101797501,
+    "notes":  "## Changes\n\n- **Online only in the Performers, Studios and Tags windows.** A new switch shows only what\u0027s on the drives connected now, with the counts to match. Renaming, merging and removing still change the whole collection.\n- **The Tags window\u0027s table matches the Collection Editor.** It also sorts by any column when you click its heading."
 }

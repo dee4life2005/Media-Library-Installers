@@ -1,7 +1,7 @@
 {
-    "version":  "1.12.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.12.0/VideoShelf-Setup-1.12.0.exe",
-    "sha256":  "9d5129ac6af37475cc5a5700246e3823050fbde71c5c8ad0de246158bb297aec",
-    "size":  101797501,
-    "notes":  "## Changes\n\n- **Online only in the Performers, Studios and Tags windows.** A new switch shows only what\u0027s on the drives connected now, with the counts to match. Renaming, merging and removing still change the whole collection.\n- **The Tags window\u0027s table matches the Collection Editor.** It also sorts by any column when you click its heading."
+    "version":  "1.13.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.13.0/VideoShelf-Setup-1.13.0.exe",
+    "sha256":  "ad0821c5ccade27becbda70b874be31f883384273f09cc707688d6be7737b8b2",
+    "size":  101849405,
+    "notes":  "## Changes\n\n- **Sort the scenes in the Performers, Studios and Tags windows.** Sort by rating, name, date added, length, size, plays or last played, either way round.\n- **See a tag\u0027s scenes.** The Tags window now works like the Studios window: choose a tag, or several, and their scenes show beside the list, including scenes in folders with the tag. Rename, merge and remove are above them.\n- **A fresh start after Edit scenes.** Once you apply Edit scenes to a batch, the selection clears, ready for the next one. Ctrl+A and Escape work straight away after any of the selection bar\u0027s buttons, and Ctrl+A with everything already picked clears the selection."
 }

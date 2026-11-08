@@ -20,7 +20,7 @@ The installer isn't signed yet, so Windows may warn you about it. On a PC with S
 - **Browse visually:** folder and scene tiles in Landscape, Square or Portrait, with a hover preview that scrubs through each video.
 - **Find anything:** search, range filters, tags, your own categories and saved filters.
 - **Stay in control:** rate and play from anywhere, or select many scenes and act on them together.
-- **Explore:** a Performers window and a filterable Dashboard.
+- **Explore:** Performers and Studios windows, a list of tags, and a filterable Dashboard.
 - **Keep it tidy:** Collection Health, Duplicate Scenes and Clean Up show what needs attention.
 - **Keep it safe:** safety copies on another drive, a full data mirror and an optional PIN.
 - **Make it yours:** Normal and Dark appearance, adjustable tiles and a demo mode for showing the app to others.

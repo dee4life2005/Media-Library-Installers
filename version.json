@@ -1,7 +1,7 @@
 {
-    "version":  "1.13.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.13.0/VideoShelf-Setup-1.13.0.exe",
-    "sha256":  "ad0821c5ccade27becbda70b874be31f883384273f09cc707688d6be7737b8b2",
-    "size":  101849405,
-    "notes":  "## Changes\n\n- **Sort the scenes in the Performers, Studios and Tags windows.** Sort by rating, name, date added, length, size, plays or last played, either way round.\n- **See a tag\u0027s scenes.** The Tags window now works like the Studios window: choose a tag, or several, and their scenes show beside the list, including scenes in folders with the tag. Rename, merge and remove are above them.\n- **A fresh start after Edit scenes.** Once you apply Edit scenes to a batch, the selection clears, ready for the next one. Ctrl+A and Escape work straight away after any of the selection bar\u0027s buttons, and Ctrl+A with everything already picked clears the selection."
+    "version":  "1.14.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.14.0/VideoShelf-Setup-1.14.0.exe",
+    "sha256":  "c9bc62ed58989fbbb92b806d3854bf8975e81582d0a7fcb52251fbb825d615b9",
+    "size":  101862859,
+    "notes":  "## Changes\n\n- **A tidier layout in the Performers, Studios and Tags windows.** The one you choose has its details in a panel at the top. Under them is a bar with which scenes to show, the count, the sort and the tile size, and the scenes sit under that.\n- **Each of those windows keeps its own tile size.** Making the tiles bigger in the Studios window leaves the main window and the others as they were, and it\u0027s remembered next time.\n- **Escape clears the selection after dragging a rectangle.** Before, if you picked tiles only by dragging, Escape and Ctrl+A went to whatever had the keyboard before, such as the search box. Clicking or dragging on the tiles now brings the keyboard with it."
 }

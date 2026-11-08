@@ -1,7 +1,7 @@
 {
-    "version":  "1.17.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.0/VideoShelf-Setup-1.17.0.exe",
-    "sha256":  "2d37f3dd953633f5931737dec0789937036b1366386e0edc5c6f819884a498b2",
-    "size":  101989262,
-    "notes":  "## Changes\n\n- **Find by face.** Find a performer\u0027s scenes from their face, then name them on all of them at once. Open it from Tools › Find by Face, or from a performer in the Performers window. It works in three steps:\n  1. **Who and where:** pick a few of their faces, from scenes that already name them or from a photo, then choose the drives, studios, tags and folders to look in.\n  2. **Scan:** their screenshots are looked through, showing the time left. Screenshots looked at once are remembered, so the next search is much quicker.\n  3. **Review and name:** likely and possible matches, with their face beside each match, to name in bulk or mark as not them.\n- **Faces stay on this PC.** Matching happens entirely on your PC and never online. For each face only a fingerprint is kept (a list of numbers, not a picture), and Settings › Faces can delete it all. The two small models are downloaded once from there.\n- **Easier to read Covers settings.** The text about saved suggestions is now a few short points."
+    "version":  "1.17.1",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.1/VideoShelf-Setup-1.17.1.exe",
+    "sha256":  "7b11f3bd2e8afb03ac43d8702c5d93f69299c90b7041c7db635038642570a3ec",
+    "size":  101955425,
+    "notes":  "## Fixes\n\n- **A Performer filter for scenes.** The scene filters now have a Performer box, as the folder filters do. It finds scenes with that performer named on the scene or on its folder, and other names they go by count too. It also shows as a chip, is kept in saved views, and is cleared by Reset."
 }

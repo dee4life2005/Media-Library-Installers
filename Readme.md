@@ -21,6 +21,7 @@ The installer isn't signed yet, so Windows may warn you about it. On a PC with S
 - **Find anything:** search, range filters, tags, your own categories and saved filters.
 - **Stay in control:** rate and play from anywhere, or select many scenes and act on them together.
 - **Explore:** Performers and Studios windows, a list of tags, and a filterable Dashboard.
+- **Find by face:** find a performer's scenes from their face, matched privately on your PC, then name them in bulk.
 - **Keep it tidy:** Collection Health, Duplicate Scenes and Clean Up show what needs attention.
 - **Keep it safe:** safety copies on another drive, a full data mirror and an optional PIN.
 - **Make it yours:** Normal and Dark appearance, adjustable tiles and a demo mode for showing the app to others.

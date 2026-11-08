@@ -1,7 +1,7 @@
 {
-    "version":  "1.17.4",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.4/VideoShelf-Setup-1.17.4.exe",
-    "sha256":  "58ee08eb1cc27dc6c8014187f53506e33e6f5dea8feecd1bd6205ab7e74c59c5",
-    "size":  101931026,
-    "notes":  "## Fixes\n\n- **Old folders tidied out of the data folder.** The \"index\" and \"cache\" folders aren\u0027t used any more: the catalogue has held everything in them for a long time. They\u0027re deleted the first time 1.17.4 opens, and nothing makes them again. Your catalogue, safety copies and screenshots aren\u0027t touched.\n- **Copy to a hard drive takes your performers, tags and studios.** The read-only copy now shows them, with the studios\u0027 logos. Before, it left them out, and a folder without screenshots stopped the copy.\n- **Renaming or removing a folder takes its Find by face data with it.**"
+    "version":  "1.17.5",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.5/VideoShelf-Setup-1.17.5.exe",
+    "sha256":  "454f34093731d5742cb043566198c929a65ee83147da9be385c3c00b2eea3cec",
+    "size":  101989160,
+    "notes":  "## Fixes\n\n- **A damaged entry is taken out of the tag list.** If the old mastertags.txt file was damaged (saved as nothing but blank characters), its contents could end up in the tag list as one long, invisible tag. That entry is removed when the app opens, and blank or invisible characters can no longer become part of a tag."
 }

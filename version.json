@@ -1,7 +1,7 @@
 {
-    "version":  "1.15.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.15.0/VideoShelf-Setup-1.15.0.exe",
-    "sha256":  "573ff4af61ecc30b8d231733164c84537e62bdd2ae5256701b31aba618228e85",
-    "size":  101826954,
-    "notes":  "## Changes\n\n- **Credits and your privacy, on the About page.** It now lists everything Video Shelf is built with and the licence each comes under, with links. It also says plainly what stays on your PC and the only times the app goes online.\n- **Video details are read by ffprobe directly.** The length, codecs and frame size of each video now come straight from ffprobe, the one you already have with ffmpeg, rather than through a separate library. Nothing changes in how you use it."
+    "version":  "1.16.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.16.0/VideoShelf-Setup-1.16.0.exe",
+    "sha256":  "14693e9c4f2423d22e9fc49b75d426fc0863065467e7d7b04ed0df17d657c145",
+    "size":  101819161,
+    "notes":  "## Changes\n\n- **Studios are named from file names.** When a refresh or import finds a new video whose file name holds one of your studios\u0027 names, that studio is named on the scene for you.\n  - Spaces and punctuation don\u0027t matter: *northlight.films.scene*, *NorthlightFilms - Scene* and *Northlight_Films* all count for Northlight Films.\n  - Only whole words count, so a short name isn\u0027t found inside a longer word.\n  - Scenes already in your collection aren\u0027t changed. You can turn it off in Settings."
 }

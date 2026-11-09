@@ -1,7 +1,7 @@
 {
-    "version":  "1.17.5",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.17.5/VideoShelf-Setup-1.17.5.exe",
-    "sha256":  "454f34093731d5742cb043566198c929a65ee83147da9be385c3c00b2eea3cec",
-    "size":  101989160,
-    "notes":  "## Fixes\n\n- **A damaged entry is taken out of the tag list.** If the old mastertags.txt file was damaged (saved as nothing but blank characters), its contents could end up in the tag list as one long, invisible tag. That entry is removed when the app opens, and blank or invisible characters can no longer become part of a tag."
+    "version":  "1.18.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.18.0/VideoShelf-Setup-1.18.0.exe",
+    "sha256":  "c599f2b6cb7100dc7b954d8d4ea203c406adc9b4d722b2a5139f1ddc253e708c",
+    "size":  101963407,
+    "notes":  "## Changes\n\nFind by face:\n\n- **Photos first.** Add faces opens ready for photos of them. Drag them in from your PC or straight from a web page, paste one with Ctrl+V, or Browse for several at once. You can also drop photos onto their faces in the first step. A photo with one face is ticked for you; with several, you tick the right one. Looking through the scenes that already name them is now a button, used only when you want it.\n- **Choosing where to look.** Drives are picked like studios and tags, starting at All drives. Folders are in two lists: the ones the filters leave on the left, and the ones to scan on the right. Double-click, drag or use the arrows to move them. With nothing on the right, everything on the left is scanned.\n- **Scans start straight away.** There\u0027s no more pause before a big scan while the screenshots were counted. A Getting ready step shows while the models load, and progress follows from there."
 }

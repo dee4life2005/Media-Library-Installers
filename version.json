@@ -1,7 +1,7 @@
 {
-    "version":  "1.19.1",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.19.1/VideoShelf-Setup-1.19.1.exe",
-    "sha256":  "ea5ebb69e01a85a4b72ac7f946158393234965e58e7ad0330119483a195e9ad3",
-    "size":  104176981,
-    "notes":  "## Fixes\n- **Folder Duplicates lists its files again.** It counted them, but the list of files stayed empty unless you switched Duplicates only on and off.\n- **The User Guide\u0027s pictures are all up to date.** Every screenshot was taken again from this version, so they match the windows as they look now. The menu list on the tour page is up to date too."
+    "version":  "1.20.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.20.0/VideoShelf-Setup-1.20.0.exe",
+    "sha256":  "410274bc909513053ff4352932b4090e00ff91d888b23518f9793829dd4279c6",
+    "size":  104571916,
+    "notes":  "## Changes\n- **Find by face takes photos the quick way.** Drop photos anywhere on the Find by face window, from File Explorer (a whole folder works too) or straight from a web page, or copy a picture and press Ctrl+V. Add faces opens with them already looked at. Add faces itself takes drops and Ctrl+V as before, and both now understand more:\n  - Pasting takes the copied picture itself, so a browser\u0027s Copy image works even on sites that won\u0027t let it be downloaded again.\n  - Pictures copied from other apps, and pictures written into a web page rather than linked, can be used too.\n  - WebP, AVIF and HEIC photos are read when Windows has the matching free extension from the Microsoft Store, and you\u0027re told which one if it\u0027s missing. Phone photos stored on their side are turned the right way up.\n- **The demo has its own made-up films and series.** Demo Mode now shows invented titles, studios and channels. A demo you\u0027ve opened before is rebuilt once with the new names, so plays and ratings made in the demo start again.\n- **A new picture in About and System Information** when there are no slideshow pictures to show."
 }

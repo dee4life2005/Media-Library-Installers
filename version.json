@@ -1,7 +1,7 @@
 {
-    "version":  "1.18.1",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.18.1/VideoShelf-Setup-1.18.1.exe",
-    "sha256":  "b18cb1dad4eb4aa32537c083193cf67b60e171afc5a698ecf17dd2a64e28749b",
-    "size":  101966915,
-    "notes":  "## Fixes\n\n- **Find by face: a time left you can go by.** It\u0027s now worked out from how long the scan has taken so far and how far through it is. Before, it counted only screenshots never looked at before, so it said \"Almost done\" far too soon when most had been. It also no longer rounds a minute and a bit up to \"2 minutes\"."
+    "version":  "1.19.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.19.0/VideoShelf-Setup-1.19.0.exe",
+    "sha256":  "d7edb381afa750bb3da4e244c219de42cf417ca89cd0c5e70552be0c08008199",
+    "size":  103279814,
+    "notes":  "## Changes\n- Find by face has a new setting, **Compare with all their faces on average**, in Settings › Faces. When it\u0027s on, a face found in a screenshot is scored by how alike it is to all of the performer\u0027s faces, instead of just the closest one. Someone who happens to look like one photo scores lower, which can cut the wrong matches in Maybe. It\u0027s off to start with, so nothing changes until you try it. Their own scores drop a little too, so you may want the strictness slider a step to the left. Scanning again to compare is quick, as screenshots are remembered.\n- The User Guide has a step-by-step walkthrough of Find by face, with pictures of each step. It explains Likely and Maybe, and why a Maybe can have different hair. There are new pictures of the Studios and Tags windows and of Settings › Faces too."
 }

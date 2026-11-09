@@ -1,7 +1,7 @@
 {
-    "version":  "1.19.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.19.0/VideoShelf-Setup-1.19.0.exe",
-    "sha256":  "d7edb381afa750bb3da4e244c219de42cf417ca89cd0c5e70552be0c08008199",
-    "size":  103279814,
-    "notes":  "## Changes\n- Find by face has a new setting, **Compare with all their faces on average**, in Settings › Faces. When it\u0027s on, a face found in a screenshot is scored by how alike it is to all of the performer\u0027s faces, instead of just the closest one. Someone who happens to look like one photo scores lower, which can cut the wrong matches in Maybe. It\u0027s off to start with, so nothing changes until you try it. Their own scores drop a little too, so you may want the strictness slider a step to the left. Scanning again to compare is quick, as screenshots are remembered.\n- The User Guide has a step-by-step walkthrough of Find by face, with pictures of each step. It explains Likely and Maybe, and why a Maybe can have different hair. There are new pictures of the Studios and Tags windows and of Settings › Faces too."
+    "version":  "1.19.1",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.19.1/VideoShelf-Setup-1.19.1.exe",
+    "sha256":  "ea5ebb69e01a85a4b72ac7f946158393234965e58e7ad0330119483a195e9ad3",
+    "size":  104176981,
+    "notes":  "## Fixes\n- **Folder Duplicates lists its files again.** It counted them, but the list of files stayed empty unless you switched Duplicates only on and off.\n- **The User Guide\u0027s pictures are all up to date.** Every screenshot was taken again from this version, so they match the windows as they look now. The menu list on the tour page is up to date too."
 }

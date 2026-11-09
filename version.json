@@ -1,7 +1,7 @@
 {
-    "version":  "1.18.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.18.0/VideoShelf-Setup-1.18.0.exe",
-    "sha256":  "c599f2b6cb7100dc7b954d8d4ea203c406adc9b4d722b2a5139f1ddc253e708c",
-    "size":  101963407,
-    "notes":  "## Changes\n\nFind by face:\n\n- **Photos first.** Add faces opens ready for photos of them. Drag them in from your PC or straight from a web page, paste one with Ctrl+V, or Browse for several at once. You can also drop photos onto their faces in the first step. A photo with one face is ticked for you; with several, you tick the right one. Looking through the scenes that already name them is now a button, used only when you want it.\n- **Choosing where to look.** Drives are picked like studios and tags, starting at All drives. Folders are in two lists: the ones the filters leave on the left, and the ones to scan on the right. Double-click, drag or use the arrows to move them. With nothing on the right, everything on the left is scanned.\n- **Scans start straight away.** There\u0027s no more pause before a big scan while the screenshots were counted. A Getting ready step shows while the models load, and progress follows from there."
+    "version":  "1.18.1",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.18.1/VideoShelf-Setup-1.18.1.exe",
+    "sha256":  "b18cb1dad4eb4aa32537c083193cf67b60e171afc5a698ecf17dd2a64e28749b",
+    "size":  101966915,
+    "notes":  "## Fixes\n\n- **Find by face: a time left you can go by.** It\u0027s now worked out from how long the scan has taken so far and how far through it is. Before, it counted only screenshots never looked at before, so it said \"Almost done\" far too soon when most had been. It also no longer rounds a minute and a bit up to \"2 minutes\"."
 }

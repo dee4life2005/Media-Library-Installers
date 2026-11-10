@@ -1,7 +1,7 @@
 {
-    "version":  "1.21.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.21.0/VideoShelf-Setup-1.21.0.exe",
-    "sha256":  "768e6f3ce53848bf6b4671795b8f9dbac967b18ca5e39fbde49941fdfb3e855a",
-    "size":  104632911,
-    "notes":  "## Changes\n- **Backup Catalogue, on the File menu.** Your safety copy has a window of its own: choose the folder (with how much room its drive has), copy the catalogue now or each time the app closes, see the copies kept, and restore from them.\n- **Mirror all data shows how it\u0027s getting on.** Before copying it says how many files are new or changed and how big they are. While it runs you see how far it has got, the files and gigabytes copied, the speed now and on average, how long is left, how many files were already up to date, the room left on the drive, any problems and the file being copied. Stop keeps what\u0027s copied, and mirroring again carries on from there. Settings › Storage\u0027s Mirror button opens the same window."
+    "version":  "1.22.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.22.0/VideoShelf-Setup-1.22.0.exe",
+    "sha256":  "9b1d3832823b459fb5fb5418748b850ed4c8f20825baaec1fa97c741b3b2a7f1",
+    "size":  104883130,
+    "notes":  "## Changes\n- The Dashboard now covers performers, studios and tags in full:\n  - **Naming gaps** shows how many scenes still have no performer, no studio or no tags. **Show them** filters the dashboard to those scenes, and **Folders with the most to name** lists the folders to start with (double-click one to open it).\n  - **Top performers, studios and tags** are ranked by scenes, size, plays or rating. Click a row to open that performer, studio or tag.\n  - **Activity over time** shows scenes added or plays for each year of the last ten, for the busiest performers, studios and tags.\n  - New **Performer**, **Studio** and **Tag** filters, each with a \"none named\" choice.\n- The Dashboard refreshes several times faster on large collections, and no longer freezes while it works."
 }

@@ -1,7 +1,7 @@
 {
-    "version":  "1.20.0",
-    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.20.0/VideoShelf-Setup-1.20.0.exe",
-    "sha256":  "410274bc909513053ff4352932b4090e00ff91d888b23518f9793829dd4279c6",
-    "size":  104571916,
-    "notes":  "## Changes\n- **Find by face takes photos the quick way.** Drop photos anywhere on the Find by face window, from File Explorer (a whole folder works too) or straight from a web page, or copy a picture and press Ctrl+V. Add faces opens with them already looked at. Add faces itself takes drops and Ctrl+V as before, and both now understand more:\n  - Pasting takes the copied picture itself, so a browser\u0027s Copy image works even on sites that won\u0027t let it be downloaded again.\n  - Pictures copied from other apps, and pictures written into a web page rather than linked, can be used too.\n  - WebP, AVIF and HEIC photos are read when Windows has the matching free extension from the Microsoft Store, and you\u0027re told which one if it\u0027s missing. Phone photos stored on their side are turned the right way up.\n- **The demo has its own made-up films and series.** Demo Mode now shows invented titles, studios and channels. A demo you\u0027ve opened before is rebuilt once with the new names, so plays and ratings made in the demo start again.\n- **A new picture in About and System Information** when there are no slideshow pictures to show."
+    "version":  "1.21.0",
+    "url":  "https://github.com/dee4life2005/Media-Library-Installers/releases/download/v1.21.0/VideoShelf-Setup-1.21.0.exe",
+    "sha256":  "768e6f3ce53848bf6b4671795b8f9dbac967b18ca5e39fbde49941fdfb3e855a",
+    "size":  104632911,
+    "notes":  "## Changes\n- **Backup Catalogue, on the File menu.** Your safety copy has a window of its own: choose the folder (with how much room its drive has), copy the catalogue now or each time the app closes, see the copies kept, and restore from them.\n- **Mirror all data shows how it\u0027s getting on.** Before copying it says how many files are new or changed and how big they are. While it runs you see how far it has got, the files and gigabytes copied, the speed now and on average, how long is left, how many files were already up to date, the room left on the drive, any problems and the file being copied. Stop keeps what\u0027s copied, and mirroring again carries on from there. Settings › Storage\u0027s Mirror button opens the same window."
 }
